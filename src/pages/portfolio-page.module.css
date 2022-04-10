@@ -1,0 +1,35 @@
+.margin{
+    margin: 32px 32px;
+    color: #587e7e;     
+}
+.margin h2{
+    font-weight: 500;
+    font-size: 24px;
+}
+.margin h3{
+    font-weight: 400;
+    margin-top:12px;
+    font-size: 14px;
+    padding-bottom: 10px;
+}
+.hr{
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #9EBEBE;
+}
+
+.h3{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.btn{
+    margin-top: 12px;
+    width:100%;
+    padding:16px;
+    background: #5B7E7E;
+    color: #FFFDFA;
+    border:none;
+    border-radius:8px;
+    font-size: 14px;
+}

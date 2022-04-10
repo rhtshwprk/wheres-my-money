@@ -1,0 +1,30 @@
+.card{
+    background:#273838;
+    color: #9EBEBE;
+    padding:16px;
+    border-radius:8px;
+;
+}
+.row{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.label{
+    font-weight:600;
+    font-size: 14px;
+}
+.big{
+    font-weight: 300;
+    font-size: 28px;
+}
+.small{
+    font-size: 17px;
+    font-weight: 500;
+}
+hr{
+    margin: 15px 0;
+    border:none;
+    border-top: 1px solid #9EBEBE;
+    border-radius: 24px;
+}

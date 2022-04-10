@@ -1,0 +1,92 @@
+.bg{
+    background: #000;
+    height:100vh;
+    color:white;
+}
+.margin{
+    padding: 0px 32px;
+}
+.heading{
+    padding-top: 60px;
+    font-weight: 500;
+    font-size: 34px;
+}
+.intro{
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;  
+    text-align: justify;
+}
+.instructions{
+    font-size:12px;
+    margin-top: 20px;
+    align:left;
+}
+.instructions li{
+    padding-top: 8px;
+}
+
+.btn-primary{
+    width:100%;
+    margin-top:20px;
+
+    background: #E6B760;
+    border-radius: 8px;
+
+    color:black;    
+    padding:16px;
+    text-align: center;
+}
+.glasses{
+    position: fixed;
+    bottom:-50px;
+    left:0px;
+    height:300px;
+}
+.closeX{
+    position: absolute;
+    right:16px;
+    top:16px;
+}
+
+.quizImg{
+    width:100%;
+    margin-top: 80px;
+}
+.ques{
+    font-weight: 500;
+font-size: 14px;
+text-align: justify;
+margin-top: 12px;
+margin-bottom: 30px;
+}
+.btn-secondary{
+    background: #5B7E7E;
+    border-radius: 8px;
+    font-size: 14px;
+    width:100%;
+    margin-top:10px;
+
+    padding:16px;
+    text-align: center;
+}
+.border{
+    border: 1px solid;
+    border-color: #E6B760;
+    padding: 4px;
+    border-radius: 8px;
+}
+.options{
+    padding-top: 80px;
+    font-weight: 500;
+    font-size: 14px;
+}
+.options div{
+    margin-bottom: 24px;
+}
+.graph{
+    display: block;
+    margin:auto;
+    width:75vw;
+}
