@@ -22,6 +22,12 @@ Then we started working on the App-
 - Storing user-data (courses completed by user, info of stocks purchased etc.): Firebase
 - Stock Price Changes: Based on Real time prices using a free tier API (Alpha vantage/Polygon
 
+## Screenshots
+![ss01](/ss01.jpg)
+![ss02](/ss02.jpg)
+![ss03](/ss03.jpg)
+![ss04](/ss04.jpg)
+
 ## Inspiration
 
 Ever felt a shock by thinking where did your monthly salary or pocket money go by the end of a month? When Did you spend it? Where did you spend all of it? and Why did you spend it? How to save and not make that same mistake again?
